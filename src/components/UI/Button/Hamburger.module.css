@@ -1,0 +1,10 @@
+.Hamburger {
+  color: white;
+  font-size: 2em;
+}
+
+.Hamburger:hover {
+  color: #40A4C8;
+  transition: 0.3s;
+}
+
